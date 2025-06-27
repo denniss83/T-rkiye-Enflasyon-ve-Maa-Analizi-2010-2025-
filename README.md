@@ -55,5 +55,10 @@ Bu proje, **veri analitiği öğrenme sürecinin bir parçası** olarak hazırla
 Amaç, hem ekonomik göstergelerin zaman serisi analizini kavramak hem de Python ile veri görselleştirme pratiği yapmaktır.
 
 ---
+## 🧠 Hazırlayan
 
+**[Deniz Atabey](https://www.linkedin.com/in/deniz-atabey-6ba499282/)  
+Python & Veri Analitiği Öğrencisi  
+2025
+---
 
