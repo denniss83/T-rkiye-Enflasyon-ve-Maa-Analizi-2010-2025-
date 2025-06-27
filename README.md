@@ -5,45 +5,55 @@
 > Grafikler ve sonuçlar yalnızca analitik düşünme, veri görselleştirme ve programlama pratiği sağlamak amacıyla oluşturulmuştur.  
 > Bu nedenle, bu çalışmadaki veriler **resmî bir kaynak olarak kullanılmamalıdır.**
 
-Türkiye Asgari Ücret, Enflasyon ve Alım Gücü Analizi (2010–2025)
-Bu projede, Türkiye'de 2010–2025 yılları arasında brüt asgari ücret verileri; enflasyon (TÜFE) ve döviz kuru (USD/TRY) verileriyle birlikte analiz edilmiştir. Amaç, nominal ücret artışlarının gerçek alım gücüne etkisini ortaya koymak ve reel ücret trendlerini incelemektir.
+## 🇹🇷 Türkiye Asgari Ücret, Enflasyon ve Alım Gücü Analizi (2010–2025)
 
-📌 Kullanılan Veriler:
-Brüt Asgari Ücret (TL) — TÜİK kaynaklı yıllık veriler (manuel girildi)
+---
 
-TÜFE (Yıllık Ortalama) — TCMB kaynaklı, 2010 bazlı
+Bu projede, Türkiye'de 2010–2025 yılları arasında **brüt asgari ücret verileri**, **enflasyon (TÜFE)** ve **döviz kuru (USD/TRY)** verileri birlikte analiz edilmiştir.
 
-USD/TL Kur (Yıllık Ortalama) — TCMB döviz alış kurları
+🎯 **Amaç:** Nominal ücret artışlarının gerçek alım gücüne etkisini ortaya koymak ve reel ücret trendlerini analiz etmektir.
 
-🔍 Yapılan Analizler:
-Reel Ücret Hesaplama:
-2010 yılı baz alınarak, nominal ücretin TÜFE ile enflasyondan arındırılmış hali hesaplandı.
+---
 
-Nominal vs Reel Ücret Karşılaştırması:
-Grafiksel olarak iki zaman serisi karşılaştırıldı.
+### 📌 Kullanılan Veriler:
 
-Dolar Bazlı Ücret Analizi:
-Asgari ücretin yıllara göre USD karşılığı hesaplandı ve döviz etkisi analiz edildi.
+- 🧾 **Brüt Asgari Ücret (TL)** — TÜİK kaynaklı, yıllık bazda (manuel girildi)  
+- 📈 **TÜFE (Yıllık Ortalama)** — TCMB verileri, 2010 baz yılı esas alınmıştır  
+- 💱 **USD/TRY Kuru (Yıllık Ortalama)** — TCMB döviz alış kurları kullanıldı
 
-Yıllık Reel Ücret Değişimi (%):
-Her yıl için reel ücretin yüzdesel değişimi hesaplandı.
+---
 
-Zam Olmasına Rağmen Alım Gücü Düşen Yıllar:
-Nominal ücret artmasına rağmen reel ücretin düştüğü yıllar tespit edildi.
+### 🔍 Yapılan Analizler:
 
-📊 Öne Çıkan Grafikler:
-Reel ve Nominal Asgari Ücret (2010–2025)
+- ✅ **Reel Ücret Hesaplama** — Nominal ücretler, TÜFE ile enflasyondan arındırılarak reel hale getirildi  
+- 📊 **Nominal vs Reel Ücret Karşılaştırması** — Zaman serisi grafiklerle analiz edildi  
+- 💵 **Dolar Bazlı Ücret Analizi** — Asgari ücretin USD karşılığı yıllara göre hesaplandı  
+- 📉 **Yıllık Reel Ücret Değişimi (%)** — Her yıl reel ücretin yüzdesel değişimi hesaplandı  
+- ⚠️ **Zam Olmasına Rağmen Alım Gücü Düşen Yıllar** — Nominal artışa rağmen reel düşüş yaşanan yıllar tespit edildi
 
-Dolar Cinsinden Asgari Ücret (USD)
+---
 
-Yıllık Reel Ücret % Değişim Bar Grafiği
+### 📈 Öne Çıkan Grafikler:
 
-⚙️ Kullanılan Teknolojiler:
-Python (pandas, matplotlib)
+- 📌 Reel ve Nominal Asgari Ücret Karşılaştırması (2010–2025)  
+- 💲 Dolar Cinsinden Asgari Ücret  
+- 📉 Yıllık Reel Ücret Değişim Oranı (Bar Grafiği)
 
-Google Colab ortamı
+---
 
-Veriler manuel olarak Excel dosyasıyla yüklendi
+### ⚙️ Kullanılan Teknolojiler:
 
-🧠 Öğrenim Amacı:
-Bu proje, veri analizi öğrenme sürecinin bir parçasıdır. Hem ekonomik göstergelerin zaman serisi analizini öğrenmek hem de veri görselleştirme yeteneklerini geliştirmek amacıyla hazırlanmıştır.
+- 🐍 Python: `pandas`, `matplotlib`  
+- ☁️ Google Colab ortamı  
+- 📂 Excel ile manuel veri yükleme
+
+---
+
+### 🧠 Öğrenim Amacı:
+
+Bu proje, **veri analitiği öğrenme sürecinin bir parçası** olarak hazırlanmıştır.  
+Amaç, hem ekonomik göstergelerin zaman serisi analizini kavramak hem de Python ile veri görselleştirme pratiği yapmaktır.
+
+---
+
+
