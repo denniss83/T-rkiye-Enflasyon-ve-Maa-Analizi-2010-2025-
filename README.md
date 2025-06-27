@@ -1,3 +1,10 @@
+### ⚠️ Uyarı – Bu Çalışma Eğitim Amaçlıdır
+
+> Bu proje, Python programlama dili kullanılarak yapılmış **eğitim amaçlı** bir veri analizi çalışmasıdır.  
+> Kullanılan veriler, kamuya açık kaynaklardan manuel olarak derlenmiştir ve **kesin doğruluk garantisi taşımaz**.  
+> Grafikler ve sonuçlar yalnızca analitik düşünme, veri görselleştirme ve programlama pratiği sağlamak amacıyla oluşturulmuştur.  
+> Bu nedenle, bu çalışmadaki veriler **resmî bir kaynak olarak kullanılmamalıdır.**
+
 Türkiye Asgari Ücret, Enflasyon ve Alım Gücü Analizi (2010–2025)
 Bu projede, Türkiye'de 2010–2025 yılları arasında brüt asgari ücret verileri; enflasyon (TÜFE) ve döviz kuru (USD/TRY) verileriyle birlikte analiz edilmiştir. Amaç, nominal ücret artışlarının gerçek alım gücüne etkisini ortaya koymak ve reel ücret trendlerini incelemektir.
 
