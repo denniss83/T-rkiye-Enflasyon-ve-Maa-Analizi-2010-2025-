@@ -1,4 +1,4 @@
-🇹🇷 Türkiye Asgari Ücret, Enflasyon ve Alım Gücü Analizi (2010–2025)
+Türkiye Asgari Ücret, Enflasyon ve Alım Gücü Analizi (2010–2025)
 Bu projede, Türkiye'de 2010–2025 yılları arasında brüt asgari ücret verileri; enflasyon (TÜFE) ve döviz kuru (USD/TRY) verileriyle birlikte analiz edilmiştir. Amaç, nominal ücret artışlarının gerçek alım gücüne etkisini ortaya koymak ve reel ücret trendlerini incelemektir.
 
 📌 Kullanılan Veriler:
